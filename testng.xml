@@ -4,8 +4,7 @@
 <test name="Regression" preserve-order="true"></test>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="LoginTest.LoginToApp"/>
-      <class name="SearchModule.SearchItem"/>
+      <class name="restapitesting.WeatherApiTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite --> 
